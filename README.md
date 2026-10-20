@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Zero to hero** · Team ID `VTU-QFF-HC-0044` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Zero to hero)
+[⬆ Back to Top](#zero-to-hero)
 
 </div>
